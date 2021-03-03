@@ -1,0 +1,9 @@
+{
+  "Waiting for your wallet approval...": "Esperando la aprobación de su billetera ...",
+  "Processing oracle update...": "Procesando actualización de Oracle ...",
+  "Oracle successfully updated...": "Oracle actualizado correctamente ...",
+  "Oracle update successful": "Actualización de Oracle exitosa",
+  "Transaction failed": "Transacción fallida",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "El oráculo FXS no está actualizado. Todas las acciones están congeladas hasta que se actualiza.",
+  "Refresh Oracle": "Actualizar Oracle"
+}

@@ -1,0 +1,15 @@
+{
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX utiliza cookies para brindarle una excelente experiencia de usuario. FRAX nunca venderá información personal.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Este software ha sido auditado previamente, pero es una versión alfa. Puede perder todos sus fondos debido a ataques, vulnerabilidades y ataques económicos. Nunca use fondos dentro del protocolo Frax que no pueda permitirse perder. No se le compensará por ninguna pérdida. Todas las interacciones con los contratos inteligentes asociados en Ethereum y el software en frax.finance son bajo su propio riesgo.",
+  "Please select a wallet": "Seleccione una billetera",
+  "Loading chart data...": "Cargando datos del gráfico...",
+  "SOON": "PRONTO",
+  "CONNECT WALLET": "CONECTAR CARTERA",
+  "Help": "Ayuda",
+  "POOL": "CONSORCIO",
+  "Amount": "Cantidad",
+  "Insufficient Balance": "Saldo insuficiente",
+  "Pool": "Consorcio",
+  "AMOUNT": "CANTIDAD",
+  "Available": "Disponible"
+}

@@ -1,0 +1,21 @@
+{
+  "Not Connected": "No conectada",
+  "Add tokens to Metamask": "Añadir tokens a Metamask",
+  "MAX SLIPPAGE": "DESLIZAMIENTO",
+  "The slippage tolerance is needed in case there are other Frax transactions in the same block.": "La tolerancia de deslizamiento es necesaria en caso de que haya otras transacciones Frax en el mismo bloque.",
+  "ALLOWANCE": "RACIÓN",
+  "In order to move tokens from your account, the smart contract needs your permission.": "Para mover tokens de su cuenta, el contrato inteligente necesita su permiso.",
+  "Dashboard": "Tablero",
+  "Mint": "Acuñar",
+  "Redeem": "Redimir",
+  "Buyback & Recollateralize": "Recompra y recollateralización",
+  "Bonds": "Bonos",
+  "Staking": "Afianzar",
+  "Governance": "Gobernanza",
+  "Integrations": "Integraciones",
+  "Docs": "Documentos",
+  "Terms": "Condiciones",
+  "Privacy": "Privacidad",
+  "Coverage Available": "Cobertura disponible",
+  "Audited by": "Auditado por"
+}
