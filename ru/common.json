@@ -1,15 +1,15 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
-  "Please select a wallet": "Please select a wallet",
-  "Loading chart data...": "Loading chart data...",
-  "SOON": "SOON",
-  "CONNECT WALLET": "CONNECT WALLET",
-  "Help": "Help",
-  "POOL": "POOL",
-  "Amount": "Amount",
-  "Insufficient Balance": "Insufficient Balance",
-  "Pool": "Pool",
-  "AMOUNT": "AMOUNT",
-  "Available": "Available"
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX использует файлы cookie для обеспечения удобства работы с сайтом. FRAX не будет передавать персональную информацию третьим лицам.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Это программное обеспечение было проверено, но является альфа-релизом. Вы можете потерять все средства из-за взломов, уязвимостей и экономических атак. Никогда не используйте средства в рамках протокола Frax, которые вы не можете позволить себе потерять. Ваши потери не будут возмещены. Все взаимодействия с соответствующими смарт-контрактами на Ethereum и программным обеспечением на frax.finance осуществляются исключительно на ваш страх и риск.",
+  "Please select a wallet": "Пожалуйста, выберите кошелек",
+  "Loading chart data...": "Загрузка данных диаграммы...",
+  "SOON": "СКОРО",
+  "CONNECT WALLET": "ПОДКЛЮЧИТЬ КОШЕЛЕК",
+  "Help": "Помощь",
+  "POOL": "ПУЛ",
+  "Amount": "Сумма",
+  "Insufficient Balance": "Недостаточный баланс",
+  "Pool": "Пул",
+  "AMOUNT": "СУММА",
+  "Available": "Доступно"
 }
