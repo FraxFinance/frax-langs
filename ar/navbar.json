@@ -14,8 +14,11 @@
   "Governance": "Governance",
   "Integrations": "Integrations",
   "Docs": "Docs",
+  "Art & Graphics": "Art & Graphics",
   "Terms": "Terms",
   "Privacy": "Privacy",
   "Coverage Available": "Coverage Available",
-  "Audited by": "Audited by"
+  "Audited by": "Audited by",
+  "Min": "Min",
+  "Max": "Max"
 }

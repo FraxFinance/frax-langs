@@ -14,8 +14,11 @@
   "Governance": "Управление",
   "Integrations": "Интеграция",
   "Docs": "Документы",
+  "Art & Graphics": "Art & Graphics",
   "Terms": "Условия",
   "Privacy": "Конфиденциальность",
   "Coverage Available": "Доступное покрытие",
-  "Audited by": "Проверено"
+  "Audited by": "Проверено",
+  "Min": "Min",
+  "Max": "Max"
 }
