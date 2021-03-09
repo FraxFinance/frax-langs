@@ -27,7 +27,7 @@
   "90 Days - 180 Days": "90 일 – 180 일",
   "180 Days - 1 Year": "180 일 - 1 년",
   "1 Year - 2 Years": "1 년 - 2 년",
-  "2 Years - 3 Years": "2 Years - 3 Years",
+  "2 Years - 3 Years": "2 년 - 3 년",
   "This feature has many inline transactions and due to market fluctuations, a higher slippage (>5%) is recommended, as well as a 1000000 gas limit. It is intended to be a convenience function to bundle multiple steps into one. Any unused tokens will be refunded. ": "This feature has many inline transactions and due to market fluctuations, a higher slippage (>5%) is recommended, as well as a 1000000 gas limit. It is intended to be a convenience function to bundle multiple steps into one. Any unused tokens will be refunded. ",
   "Waiting for your wallet approval": "지갑 승인 대기 중",
   "Processing FXS withdrawal": "FXS 인출 처리 중",
