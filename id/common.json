@@ -1,16 +1,16 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
-  "Please select a wallet": "Please select a wallet",
-  "Loading chart data...": "Loading chart data...",
-  "SOON": "SOON",
-  "Please wait...": "Please wait...",
-  "CONNECT WALLET": "CONNECT WALLET",
-  "Help": "Help",
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX memakai cookies untuk meningkatkan kenyamanan Anda. FRAX tidak akan menjual data diri Anda.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Sofware ini telah melalui audit sebelumya dan masih dalam tahap pertama. Anda masih bisa kehilangan semua dana akibat peretasan, kerentanan, and serangan digital lainya. Jangan gunakan dana pada Protokol Frax yang tidak anda percayai. Anda tidak akan mendapatkan kompensasi untuk kerugian yang ditimbulkan. Semua interaksi yang terkait smart contract di Ethereum and software frax.finance menjadi resiko Anda.",
+  "Please select a wallet": "Silahkan pilih wallet",
+  "Loading chart data...": "Memuat data grafik ...",
+  "SOON": "SEGERA",
+  "Please wait...": "Mohon tunggu...",
+  "CONNECT WALLET": "HUBUNGKAN WALLET",
+  "Help": "Bantuan",
   "POOL": "POOL",
-  "Amount": "Amount",
-  "Insufficient Balance": "Insufficient Balance",
+  "Amount": "Jumlah",
+  "Insufficient Balance": "Saldo tidak cukup",
   "Pool": "Pool",
-  "AMOUNT": "AMOUNT",
-  "Available": "Available"
+  "AMOUNT": "JUMLAH",
+  "Available": "Tersedia"
 }

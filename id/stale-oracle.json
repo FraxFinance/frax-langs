@@ -1,9 +1,9 @@
 {
-  "Waiting for your wallet approval...": "Waiting for your wallet approval...",
-  "Processing oracle update...": "Processing oracle update...",
-  "Oracle successfully updated...": "Oracle successfully updated...",
-  "Oracle update successful": "Oracle update successful",
-  "Transaction failed": "Transaction failed",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": "The FXS oracle is stale. All actions are frozen until it is updated.",
-  "Refresh Oracle": "Refresh Oracle"
+  "Waiting for your wallet approval...": "Menunggu persetujuan wallet Anda...",
+  "Processing oracle update...": "Memproses pembaruan oracle...",
+  "Oracle successfully updated...": "Oracle sukses diperbarui...",
+  "Oracle update successful": "Pembaruan oracle sukses",
+  "Transaction failed": "Transaksi Gagal",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": " Oracle FXS lawas. Semua tindakan dibekukan sampai diperbarui.",
+  "Refresh Oracle": "Me-Refresh Oracle"
 }
