@@ -1,9 +1,9 @@
 {
-  "Waiting for your wallet approval...": "Waiting for your wallet approval...",
-  "Processing oracle update...": "Processing oracle update...",
-  "Oracle successfully updated...": "Oracle successfully updated...",
-  "Oracle update successful": "Oracle update successful",
-  "Transaction failed": "Transaction failed",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": "The FXS oracle is stale. All actions are frozen until it is updated.",
-  "Refresh Oracle": "Refresh Oracle"
+  "Waiting for your wallet approval...": "...ממתין לאישור מהארנק",
+  "Processing oracle update...": "...מעבד עדכון מהאורקל",
+  "Oracle successfully updated...": "...האורל עודכן בהצלחה",
+  "Oracle update successful": "עדכון האורקל אושר",
+  "Transaction failed": "טרנזקציה נכשלה",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "אורקל אינו מגיב. כל הפעולות מושהות עד שיגיע עדכון FXS-אורקל ה",
+  "Refresh Oracle": "רענן אורקל"
 }
