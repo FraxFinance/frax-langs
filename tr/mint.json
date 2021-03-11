@@ -11,7 +11,7 @@
   "FXS allowance approved": "FXS ödeneği onaylandı",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "2. işlem başarılı. 3. cüzdan onayınız bekleniyor",
   "Processing mint transaction": "Basım işlemi işleniyor",
-  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== Havuz şu nedenle kapalı: [havuz_tavanına ulaşıldı] ==-- 🌊",
+  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== Havuz şu nedenle kapalı: [pool_ceiling reached] ==-- 🌊",
   "MINT FRAX": "FRAX BAS",
   "FRAX PRICE": "FRAX FİYATI",
   "From CoinGecko": "CoinGecko'dan",

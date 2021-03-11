@@ -11,7 +11,7 @@
   "Processing recollateralization": "Yeniden temin etme işleniyor",
   "Recollateralization successful": "Yeniden temin etme başarılı",
   "FRAX recollateralized": "FRAX yeniden temin edildi",
-  "There is currently no excess value to conduct buybacks": "Şu anda geri alım yapmak için fazla bir değer bulunmamaktadır",
+  "There is currently no excess value to conduct buybacks": "Şu anda geri alım yapmak için fazladan bir değer bulunmamaktadır",
   "BUYBACK": "GERİ SATIN ALIM",
   "COLLATERAL RATIO": "TEMİNAT ORANI",
   "FXS Balance": "FXS Bakiyesi",
@@ -24,5 +24,5 @@
   "BONUS RATE": "BONUS ORANI",
   "Collateral Amount": "Teminat Tutarı",
   "Collateral Balance": "Teminat Bakiyesi",
-  "Recollateralization Available": "Tekrar Temin Etme Mevcut"
+  "Recollateralization Available": "Tekrar Temin Etme Yapılabilir"
 }
