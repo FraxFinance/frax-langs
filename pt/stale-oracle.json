@@ -1,9 +1,10 @@
 {
-  "Waiting for your wallet approval...": "Waiting for your wallet approval...",
-  "Processing oracle update...": "Processing oracle update...",
-  "Oracle successfully updated...": "Oracle successfully updated...",
-  "Oracle update successful": "Oracle update successful",
-  "Transaction failed": "Transaction failed",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": "The FXS oracle is stale. All actions are frozen until it is updated.",
-  "Refresh Oracle": "Refresh Oracle"
+  "Waiting for your wallet approval...": "À espera da sua aprovação de carteira...",
+  "Processing oracle update...": "A processar a atualização do oracle...",
+  "Oracle successfully updated...": "Oracle atualizado com sucesso...",
+  "Oracle update successful": "Atualização de Oracle bem sucedida ",
+  "Transaction failed": "Transação mal sucedida",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "O FXS oracle está ultrapassado. Todas as ações estão congeladas até ser atualizado.",
+  "Refresh Oracle": "Atualizar Oracle"
+
 }

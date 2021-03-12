@@ -1,16 +1,17 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
-  "Please select a wallet": "Please select a wallet",
-  "Loading chart data...": "Loading chart data...",
-  "SOON": "SOON",
-  "Please wait...": "Please wait...",
-  "CONNECT WALLET": "CONNECT WALLET",
-  "Help": "Help",
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "A FRAX usa cookies para lhe proporcionar uma melhor experiência. A FRAX nunca irá vender qualquer informação pessoal.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Este software foi submetido a uma auditoria mas é uma versão Alpha. Pode perder todos os seus fundos devido a hacks, vulnerabilidades e ataques económicos. Nunca use fundos na FRAX que não possa perder. Não será indemnizado por nenhuma perda. Todas as interações com os contratos inteligentes associados ao Ethereum ou ao software na frax.finance são da sua própria responsabilidade.",
+  "Please select a wallet": "Por favor selecione uma carteira",
+  "Loading chart data...": "A carregar dados do gráfico...",
+  "SOON": "EM BREVE",
+  "Please wait...": "Por favor aguarde...",
+  "CONNECT WALLET": "CONECTAR CARTEIRA",
+  "Help": "Ajuda",
   "POOL": "POOL",
-  "Amount": "Amount",
-  "Insufficient Balance": "Insufficient Balance",
+  "Amount": "Montante",
+  "Insufficient Balance": "Balanço insuficiente",
   "Pool": "Pool",
-  "AMOUNT": "AMOUNT",
-  "Available": "Available"
+  "AMOUNT": "MONTANTE",
+  "Available": "Disponível"
+
 }

@@ -15,10 +15,10 @@
   "REDEMPTION END": "КОНЕЦ ПОГАШЕНИЯ",
   "BONDS": "ОБЛИГАЦИИ",
   "FXB ADDRESS": "АДРЕС FXB",
-  "Bond Issuer": "Эмитент Облигаций",
+  "Bond Issuer": "Эмитент облигаций",
   "From": "Из",
   "Balance": "Баланс",
   "Insufficient Balance": "Недостаточный баланс",
   "To": "В",
-  "Effective FXB Price": "Ориентировочная Цена FXB"
+  "Effective FXB Price": "Ориентировочная цена FXB"
 }

@@ -59,7 +59,7 @@
   "Insufficient Balance": "יתרה בלתי מספקת",
   "Available": "פנוי",
   "Locked": "נעול",
-  "If you choose to lock your stake, the longer you do so, the more boost it will have when calculating rewards. Staking unlocked LP tokens doesn’t earn a boost but can be withdrawn at any time. All stakers regardless of lockups earn an additional boost the more FRAX becomes algorithmic.":"נהיה יותר ויותר אלגוריתמי כך מקציאי האחזקות נהנים ממכפיל גבוה יותר FRAX אם תבחר לנעול את ההחזקה שלך, ככל שתתחייב לתקופה ארוכה יותר, כך תתוגמל במכפיל גבוה יותר בעת חישוב תזרים התגמולים. הקצאת החזקה של טוקנים ללא נעילה אינה זכאית למכפיל, אך ניתנת למשיכה בכל עת. ללא קשר לתקופת הנעילה, ככל שמנגנון הקיבוע של",
+  "If you choose to lock your stake, the longer you do so, the more boost it will have when calculating rewards. Staking unlocked LP tokens doesn’t earn a boost but can be withdrawn at any time. All stakers regardless of lockups earn an additional boost the more FRAX becomes algorithmic.": "נהיה יותר ויותר אלגוריתמי כך מקציאי האחזקות נהנים ממכפיל גבוה יותר FRAX אם תבחר לנעול את ההחזקה שלך, ככל שתתחייב לתקופה ארוכה יותר, כך תתוגמל במכפיל גבוה יותר בעת חישוב תזרים התגמולים. הקצאת החזקה של טוקנים ללא נעילה אינה זכאית למכפיל, אך ניתנת למשיכה בכל עת. ללא קשר לתקופת הנעילה, ככל שמנגנון הקיבוע של",
   "DAYS": "ימים",
   "time": "זמן",
   "CR": "CR",
