@@ -1,16 +1,16 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
-  "Please select a wallet": "Please select a wallet",
-  "Loading chart data...": "Loading chart data...",
-  "SOON": "SOON",
-  "Please wait...": "Please wait...",
-  "CONNECT WALLET": "CONNECT WALLET",
-  "Help": "Help",
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX utilizza i cookies per fornirti una grande esperienza di navigazione. FRAX non venderà mai nessuna informazione personale.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Questo software è stato revisionato in precedenza ma si trova ancora in versione alpha. Potresti perdere tutti i tuoi fondi a causa di hacks, vulnerabilità e attacchi economici. Non utilizzare fondi con il protocollo Frax che non potresti permetterti di perdere. Non sarai risarcito in caso di perdita. Tutte le interazioni con gli smart contract associati ad ethereum e i software di frax.finance sono a tuo rischio e pericolo. ",
+  "Please select a wallet": "Perfavore seleziona un portafoglio",
+  "Loading chart data...": "Caricamento dati dei grafici...",
+  "SOON": "PRESTO",
+  "Please wait...": "Attendi perfavore...",
+  "CONNECT WALLET": "COLLEGA PORTAFOGLIO",
+  "Help": "Aiuto",
   "POOL": "POOL",
-  "Amount": "Amount",
-  "Insufficient Balance": "Insufficient Balance",
+  "Amount": "Quantità",
+  "Insufficient Balance": "Saldo insufficiente",
   "Pool": "Pool",
-  "AMOUNT": "AMOUNT",
-  "Available": "Available"
+  "AMOUNT": "QUANTITA'",
+  "Available": "Disponibile"
 }
