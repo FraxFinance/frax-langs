@@ -6,5 +6,4 @@
   "Transaction failed": "Transação mal sucedida",
   "The FXS oracle is stale. All actions are frozen until it is updated.": "O FXS oracle está ultrapassado. Todas as ações estão congeladas até ser atualizado.",
   "Refresh Oracle": "Atualizar Oracle"
-
 }

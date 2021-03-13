@@ -1,16 +1,16 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX використовує файли cookies для найкращого досвіду користування. FRAX ніколи не продає особисту інформацію.",
   "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
-  "Please select a wallet": "Please select a wallet",
-  "Loading chart data...": "Loading chart data...",
+  "Please select a wallet": "Будь-ласка, виберіть гаманець",
+  "Loading chart data...": "Завантажуємо дані блок-схеми...",
   "SOON": "SOON",
-  "Please wait...": "Please wait...",
-  "CONNECT WALLET": "CONNECT WALLET",
-  "Help": "Help",
-  "POOL": "POOL",
-  "Amount": "Amount",
-  "Insufficient Balance": "Insufficient Balance",
-  "Pool": "Pool",
-  "AMOUNT": "AMOUNT",
-  "Available": "Available"
+  "Please wait...": "Будь-ласка, зачекайте...",
+  "CONNECT WALLET": "З'ЄДНАТИСЯ З ГАМАНЦЕМ",
+  "Help": "Допомога",
+  "POOL": "ПУЛ",
+  "Amount": "Сума",
+  "Insufficient Balance": "Недостатній баланс",
+  "Pool": "ПУЛ",
+  "AMOUNT": "СУМА",
+  "Available": "Доступно"
 }
