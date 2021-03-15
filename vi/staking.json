@@ -39,7 +39,7 @@
   "FXS -> LP succeeded": "Chuyển FXS -> LP thành công",
   "You are trying to stake for too long! Please make sure the slider is correct.": "Bạn đang cố gắng stake quá lâu! Hãy đảm bảo rằng thanh trượt là chính xác.",
   "Processing {{val}} approval transaction": "Đang xử lý giao dịch {{val}}",
-  "Giao dịch đầu tiên thành công. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
   "Allowance complete": "Hoàn thành trợ cấp",
   "Processing transaction": "Đang xử lý giao dịch",
   "Staking successful": "Staking thành công",

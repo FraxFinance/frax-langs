@@ -1,7 +1,7 @@
 {
   "Waiting for your wallet approval": "Đang đợi phê duyệt ví của bạn",
   "Processing FXS approval": "Đang xử lý FXS",
-  "Giao dịch đầu tiên thành công. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
   "FXS allowance approved": "Đã duyệt trợ cấp FXS",
   "Transaction failed": "Giao dịch thất bại",
   "Processing buyback transaction": "Đang xử lý giao dịch mua lại",

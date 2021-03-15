@@ -7,7 +7,7 @@
   "Redemption successful": "Đổi thành công",
   "Transaction failed": "Giao dịch thất bại",
   "Processing FRAX approval": "Đang phê duyệt FRAX",
-  "Giao dịch đầu tiên thành công. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
   "FRAX allowance approved": "Đã cho phép phê duyệt FRAX",
   "Processing redemption": "Đang xử lý việc quy đổi",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Đã bắt đầu quy đổi. Vui lòng đợi {{val1}} khối {{val2}}",

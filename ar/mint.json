@@ -1,37 +1,37 @@
 {
   "Waiting for your wallet approval": "في انتظار الموافقة على محفظتك",
-  "Processing {{val}} allowance transaction": "معالجة {{val}} المعاملات",
-  "1st transaction successful. Waiting for your 2nd wallet approval": "تمت المعاملة بنجاح، في انتظار الموافقة الثانية على محفظتك.",
-  "Collateral allowance approved": "تمت الموافقة على بدل الضمان",
-  "Transaction failed": "فشل في التحويل",
-  "Processing minting transaction": "معالجة صناعة العملة",
-  "Transaction successful": "تمت عملية التحويل بنجاح",
-  "Mint succeeded": "تمت عملية صناعة العملة بنجاح",
-  "Processing FXS approval": "الموافقة على معالجة الفراكس",
-  "FXS allowance approved": "تمت الموافقة على بدل الفراكس",
-  "2nd transaction successful. Waiting for your 3rd wallet approval": "المعاملة الثانية تمت بنجاح، في انتظار الموافقة الثالثة لمحفظتك.",
-  "Processing mint transaction": "معالجة تحويلات صناعة العملة",
-  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== تم إغلاق الحوض بسبب: [pool_ceiling reached] ==-- 🌊",
-  "MINT FRAX": "منجم فراكس",
-  "FRAX PRICE": "سعر فراكس",
-  "From CoinGecko": "من طرف CoinGecko",
+  "Processing {{val}} allowance transaction": "{{val}}جاري معالجة عملية بدل ",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "أول عملية ناجحة، في انتظار الموافقة الثانية على محفظتك",
+  "Collateral allowance approved": " تمت الموافقة على بدل الضمان",
+  "Transaction failed": "عملية فاشلة",
+  "Processing minting transaction": "جاري معالجة عملية صناعة العملة",
+  "Transaction successful": "عملية ناجحة",
+  "Mint succeeded": "صناعة عملة ناجحة",
+  "Processing FXS approval": " FXSجاري الموافقة على ",
+  "FXS allowance approved": " FXSتمت الموافقة على بدل ",
+  "2nd transaction successful. Waiting for your 3rd wallet approval": "عملية ثانية ناجحة، في انتظارالموافقة الثالثة على محفظتك",
+  "Processing mint transaction": "جاري معالجة عمليات صناعة العملة",
+  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": " 🌊 - ==[الوصول إلى الحد الأقصى]  المجموعة مغلقة بسبب == - 🌊",
+  "MINT FRAX": "FRAXصناعة عملة ",
+  "FRAX PRICE": "FRAXسعر ",
+  "From CoinGecko": "CoinGeckoمن ",
   "COLLATERAL RATIO": "نسبة الضمان",
-  "POOL BALANCE / CEILING": "رصيد الحوض / الحد الأقصى للرصيد",
-  "AVAILABLE TO MINT": "متوفر للصناعة العملة",
+  "POOL BALANCE / CEILING": "رصيد المجموعة / الحد الأقصى",
+  "AVAILABLE TO MINT": "متوفر لصناعة العملة",
   "MINT METHOD": "طريقة صناعة العملة",
-  "Choose normal if you already have {{val}} and FXS. Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap. ": "اختر الطريقة العادية ان كنت تملك العملة مسبقا. {{val}} اختر عملة الإثيريوم ان كنت تريد عقد صناعة عملة عبر منصة فراكس باستخدام يوني سواب. ",
-  "Link": "ربط",
+  "Choose normal if you already have {{val}} and FXS. Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap. ": " اختر 'إيثريوم' إن كنت تريد إبرام تعاقد لصناعة عملة فراكس مع إيثريوم عبر {{val}} و FXS اختر 'عادي' إن كان لديك بالفعل يونيسواب ",
+  "Link": "الرابط",
   "Normal": "عادي",
-  "WARNING: Due to market fluctuations and multiple inline transactions, a higher slippage (≥ 5%) and a 1000 FRAX minimum order size are recommended. Any unused {{val}}, FXS, and ETH will be refunded.": "تحذير: نظرًا لتقلبات السوق والمعاملات المتعددة المضمنة ، يوصى بتحديد انزلاق أعلى من (≥ 5٪) وحد أدنى لحجم أمر يبلغ 1000 فراكس، حيث أن العملة غير المستخدمة {{val}}, والإثيريوم سيتم ردها بطريقة مباشرة.",
-  "COLLATERAL POOL": "حوض مضمون",
-  "Insufficient Balance": "رصيد غير كافي",
-  "Available": "متوفر",
-  "Not enough FRAX available to mint": "ليس لديك عملات فراكس كافية من أجل صناعة العملة",
-  "DESIRED FRAX": "الكمية المطلوبة",
-  "Insufficient ETH Balance": "ليس لديك كمية كافية من عملة الإثيريوم",
-  "ETH Available": "الإثيريوم المتوفر",
-  "EXCHANGE RATES": "معدل التحويل",
+  "WARNING: Due to market fluctuations and multiple inline transactions, a higher slippage (≥ 5%) and a 1000 FRAX minimum order size are recommended. Any unused {{val}}, FXS, and ETH will be refunded.": ", تحذير: نظراً لتقلبات السوق والمعاملات المتعددة المضمنة، يوصى بحد أعلى (≥ 5٪) وحد أدنى للطلب يبلغ ألف فراكس، أي عملات  {{val}}و FXSوETH  غير مستخدمة ستكون قابلة للاسترداد",
+  "COLLATERAL POOL": "مجموعة الضمانات",
+  "Insufficient Balance": "رصيد غير كاف",
+  "Available": "متاح",
+  "Not enough FRAX available to mint": " لصناعة عملةFRAX ليس هناك ما يكفي من",
+  "DESIRED FRAX": "المرغوب FRAX",
+  "Insufficient ETH Balance": " غير كافٍETH رصيد",
+  "ETH Available": "متاح ETH",
+  "EXCHANGE RATES": "أسعار العملات",
   "MINTING FEE": "رسوم صناعة العملة",
-  "YOU RECEIVE": "ستتحصل على",
+  "YOU RECEIVE": "استلام",
   "MINT": "صناعة العملة"
 }
