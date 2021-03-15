@@ -1,9 +1,9 @@
 {
-  "Waiting for your wallet approval...": "Waiting for your wallet approval...",
-  "Processing oracle update...": "Processing oracle update...",
-  "Oracle successfully updated...": "Oracle successfully updated...",
-  "Oracle update successful": "Oracle update successful",
-  "Transaction failed": "Transaction failed",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": "The FXS oracle is stale. All actions are frozen until it is updated.",
-  "Refresh Oracle": "Refresh Oracle"
+  "Waiting for your wallet approval...": "ウォレットの承認待機中...",
+  "Processing oracle update...": "オラクルの更新を処理中...",
+  "Oracle successfully updated...": "オラクルが更新されました...",
+  "Oracle update successful": "オラクルが更新されました",
+  "Transaction failed": "トランザクション失敗",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "FXSオラクルが古くなっています。更新されるまでアクションは全て凍結されます。",
+  "Refresh Oracle": "オラクルをリフレッシュする"
 }

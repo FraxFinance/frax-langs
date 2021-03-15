@@ -1,7 +1,7 @@
 {
   "Waiting for your wallet approval": "Votre portefeuille est en attente d’approbation",
   "Processing FXS approval": "Traitement de l’approbation FXS",
-  "1st transaction successful. Waiting for your 2nd wallet approval": "1re transaction réussie. En attente de l'approbation de votre 2d portefeuille",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "1re transaction réussie. En attente de l'approbation de votre 2nd portefeuille",
   "FXS allowance approved": "Allocation FXS approuvée",
   "Transaction failed": "La transaction a échoué",
   "Processing buyback transaction": "Traitement de la transaction de rachat",
@@ -11,7 +11,7 @@
   "Processing recollateralization": "Traitement de la recollatéralisation",
   "Recollateralization successful": "Recollatéralisation réussie",
   "FRAX recollateralized": "FRAX recollatéralisé",
-  "There is currently no excess value to conduct buybacks": "Il n'y a actuellement pas d’excédentaire pour effectuer des rachats",
+  "There is currently no excess value to conduct buybacks": "Il n'y a actuellement pas de valeur excédentaire pour effectuer des rachats",
   "BUYBACK": "RACHAT",
   "COLLATERAL RATIO": "RATIO DE GARANTIE",
   "FXS Balance": "Solde FXS",

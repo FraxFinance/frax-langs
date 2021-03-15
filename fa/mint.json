@@ -1,37 +1,37 @@
 {
   "Waiting for your wallet approval": "منتظر تایید کیف پول",
-  "Processing {{val}} allowance transaction": "فرایند {{val}} مجوز تراکنش",
-  "1st transaction successful. Waiting for your 2nd wallet approval": "اولین تراکنش موفق. منتظر دومین تایید کیف پول",
-  "Collateral allowance approved": "مجوز گرو تایید شد",
+  "Processing {{val}} allowance transaction": "{{val}} در حال پردازش مجوز تراکنش",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "اولین تراکنش موفق. منتظر دومین تایید کیف پول شما",
+  "Collateral allowance approved": "مجوز وثیقه تایید شد",
   "Transaction failed": "تراکنش ناموفق",
-  "Processing minting transaction": "فرایند مینت تراکنش",
+  "Processing minting transaction": "در حال پردازش تراکنش مینت",
   "Transaction successful": "تراکنش موفق",
   "Mint succeeded": "مینت موفق",
-  "Processing FXS approval": "فرایند FXS تایید",
-  "FXS allowance approved": "FXS مجوز تایید",
-  "2nd transaction successful. Waiting for your 3rd wallet approval": "دومین تراکنش موفق. منتظر سومین تایید کیف پول",
-  "Processing mint transaction": "فرایند مینت تراکنش",
-  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== استخر بسته شده چون: [به سقف استخر رسیده] ==-- 🌊",
+  "Processing FXS approval": "در حال پردازش FXS تایید",
+  "FXS allowance approved": "مجوز FXS تأیید شد",
+  "2nd transaction successful. Waiting for your 3rd wallet approval": "دومین تراکنش موفق. منتظر سومین تایید کیف پول شما",
+  "Processing mint transaction": "در حال پردازش تراکنش مینت",
+  "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== استخر بسته شده چون: [pool_ceiling reached] ==-- 🌊",
   "MINT FRAX": "مینت FRAX",
   "FRAX PRICE": "FRAX قیمت",
   "From CoinGecko": "از CoinGecko",
-  "COLLATERAL RATIO": "نسبت گرو",
-  "POOL BALANCE / CEILING": "تراز استخر / سقف",
-  "AVAILABLE TO MINT": "قابل دسترس به مینت",
+  "COLLATERAL RATIO": "نسبت وثیقه",
+  "POOL BALANCE / CEILING": "موجودی / سقف استخر",
+  "AVAILABLE TO MINT": "قابل دسترس برای مینت",
   "MINT METHOD": "روش مینت",
-  "Choose normal if you already have {{val}} and FXS. Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap. ": "عادی را انتخاب کنید اگر از قبل دارید {{val}} و FXS. اگر می خواهید یک قرارداد سودمند برای مینت FRAX با ETHاز طریق Uniswap انجام بدین ETH را انتخاب کنید. ",
+  "Choose normal if you already have {{val}} and FXS. Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap. ": "اگر از قبل {{val}} و FXS دارید، عادی را انتخاب کنید. اگر یک قرارداد کاربردی برای مینت FRAX با ETH از طریق Uniswap می خواهید، ETH را انتخاب کنید. ",
   "Link": "لینک",
   "Normal": "عادی",
-  "WARNING: Due to market fluctuations and multiple inline transactions, a higher slippage (≥ 5%) and a 1000 FRAX minimum order size are recommended. Any unused {{val}}, FXS, and ETH will be refunded.": "هشدار: به دلیل نوسانات بازار و تراکنش های چند خطی لغزش بیشتر ...کمتر یا تا پنج درصد...و حداقل 1000 سفارش FRAX توصیه می شود. استفاده نشده  {{val}}, FXS, و ETH برگشت خواهد شد.",
-  "COLLATERAL POOL": "استخر گرو",
-  "Insufficient Balance": "عدم تراز کافی",
+  "WARNING: Due to market fluctuations and multiple inline transactions, a higher slippage (≥ 5%) and a 1000 FRAX minimum order size are recommended. Any unused {{val}}, FXS, and ETH will be refunded.": "هشدار: به دلیل نوسانات بازار و تراکنش های متعدد در صف، لغزش بیشتر (≥ 5%) و حداقل اندازه سفارش 1000 FRAX توصیه می شود. هر گونه {{val}}, FXS, و ETH استفاده نشده برگشت داده خواهد شد.",
+  "COLLATERAL POOL": "استخر وثیقه",
+  "Insufficient Balance": "موجودی ناکافی",
   "Available": "در دسترس",
-  "Not enough FRAX available to mint": "عدم FRAXقابل دسترس به مینت کافی.",
+  "Not enough FRAX available to mint": "FRAX کافی برای مینت در دسترس نیست.",
   "DESIRED FRAX": "دلخواه FRAX",
-  "Insufficient ETH Balance": "عدم تراز ETH کافی",
+  "Insufficient ETH Balance": "موجودی ETH کافی نیست",
   "ETH Available": "ETH در دسترس",
-  "EXCHANGE RATES": "نرخ تبادل ارز",
+  "EXCHANGE RATES": "نرخ مبادله",
   "MINTING FEE": "هزینه مینت کردن",
-  "YOU RECEIVE": "وصول شما",
+  "YOU RECEIVE": "شما دریافت می کنید",
   "MINT": "مینت"
 }

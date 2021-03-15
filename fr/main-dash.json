@@ -19,7 +19,7 @@
   "15 Minutes": "15 minutes",
   "Total Value": "Valeur totale",
   "Investments": "Investissement",
-  "% Algorithmic": "% Algorithmique",
+  "% Algorithmic": "% algorithmique",
   "Algorithmic": "Algorithmique",
   "Free": "Gratuit",
   "Collateralized": "Collatéralisé",
@@ -35,5 +35,5 @@
   "CIRC. SUPPLY": "OFFRE EN CIRC.",
   "Circulating Supply. Estimated from CoinGecko": "Offre en circulation. Estimée par CoinGecko",
   "CIRC. MARKET CAP": "CAPITALISATION BOURSIÈRE EN CIRC.",
-  "Circulating Market Cap. Estimated from CoinGecko": "Capitalisation boursière en Circ. Estimée par CoinGecko"
+  "Circulating Market Cap. Estimated from CoinGecko": "Capitalisation boursière en circ. Estimée par CoinGecko"
 }

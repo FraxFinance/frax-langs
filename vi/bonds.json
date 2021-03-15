@@ -3,9 +3,9 @@
   "SELL": "BÁN",
   "REDEEM": "ĐỔI",
   "ISSUE PRICE": "GIÁ MỞ BÁN",
-  "ISSUABLE FXB": "CÓ THỂ KHỞI TẠO FXB",
+  "ISSUABLE FXB": "FXB CÓ THỂ KHỞI TẠO",
   "ISSUE FEE": "PHÍ KHỞI TẠO",
-  "EPOCH END": "EPOCH KẾT THÚC",
+  "EPOCH END": "KẾT THÚC EPOCH",
   "FLOOR PRICE": "GIÁ SÀN",
   "AMM PRICE": "GIÁ AMM",
   "BUYING FEE": "PHÍ MUA",
@@ -17,8 +17,8 @@
   "FXB ADDRESS": "ĐỊA CHỈ FXB",
   "Bond Issuer": "Nhà phát hành trái phiếu",
   "From": "Từ",
-  "Balance": "số dư",
-  "Insufficient Balance": "Không đủ số dư",
+  "Balance": "Số dư",
+  "Insufficient Balance": "Không đủ Số dư",
   "To": "Đến",
-  "Effective FXB Price": "Hiệu lực giá FXB"
+  "Effective FXB Price": "Giá FXB Thực tế"
 }

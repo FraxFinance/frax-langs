@@ -1,7 +1,7 @@
 {
-  "Waiting for your wallet approval...": "Đang đợi chấp thuận từ ví của bạn...",
+  "Waiting for your wallet approval...": "Đang đợi phê duyệt từ ví của bạn...",
   "Processing oracle update...": "Đang xử lý cập nhật oracle...",
-  "Oracle successfully updated...": "Cập nhật Oracle thành công...",
+  "Oracle successfully updated...": "Đã cập nhật Oracle thành công...",
   "Oracle update successful": "Oracle cập nhật thành công",
   "Transaction failed": "Giao dịch thất bại",
   "The FXS oracle is stale. All actions are frozen until it is updated.": "Oracle của FXS đã cũ. Mọi hành động sẽ bị đóng băng cho đến khi nó được cập nhật.",

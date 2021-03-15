@@ -1,9 +1,9 @@
 {
-  "Waiting for your wallet approval...": "في انتظار الموافقة على محفظتك...",
-  "Processing oracle update...": "جاري معالجة تحديث أوراكل...",
-  "Oracle successfully updated...": "تم تحديث أوراكل بنجاح...",
-  "Oracle update successful": "تحديث أوراكل ناجح",
-  "Transaction failed": "معاملة فاشلة",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": " بحاجة إلى تحديث، جميع الإجراءات مجمدة حتى يتم التحديثFXSال أوراكل",
-  "Refresh Oracle": "تحديث أوراكل"
+  "Waiting for your wallet approval...": "في انتظار الموافقة على محفظتك ...",
+  "Processing oracle update...": "جارٍ معالجة تحديث أوراكل ...",
+  "Oracle successfully updated...": "تم تحديث اوراكل بنجاح ...",
+  "Oracle update successful": "تم تحديث اوراكل بنجاح",
+  "Transaction failed": "فشل التحويل",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "تملك النسخة القديمة من أوراكل الخاصة بفراكس، سيتم تجميد جميع الإجراءات حتى يتم التحديث بشكل كامل.",
+  "Refresh Oracle": "تحديث اوراكل"
 }
