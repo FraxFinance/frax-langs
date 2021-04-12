@@ -9,7 +9,12 @@
   "Mint": "Bate Monedă",
   "Redeem": "Revendică",
   "Buyback & Recollateralize": "Răscumpără & Recolateralizează",
+<<<<<<< HEAD
   "Staking": "Staking",
+=======
+  "Bonds": "Obligațiuni",
+  "Staking": "Staking (mizare)",
+>>>>>>> 2d4ebb5503dc5e902048d178596c023ec6779c28
   "Governance": "Guvernare",
   "Integrations": "Integrări",
   "Docs": "Documente",

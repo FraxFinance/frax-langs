@@ -42,6 +42,7 @@
   "1st transaction successful. Waiting for your 2nd wallet approval": "Prima tranzacție a reușit. Se așteaptă a II-a aprobare de la portofelul tău",
   "Allowance complete": "Alocația a terminat",
   "Processing transaction": "Tranzacția în curs de procesare",
+<<<<<<< HEAD
   "Staking successful": "Staking a reușit",
   "Staking complete": "Staking a terminat",
   "Withdrawal complete": "Retragerea a terminat",
@@ -54,6 +55,20 @@
   "Check on VFAT": "Verifică pe VFAT",
   "DEPOSIT": "DEPOZITEAZĂ",
   "Staking": "Staking",
+=======
+  "Staking successful": "Mizarea a reușit",
+  "Staking complete": "Mizarea a terminat",
+  "Withdrawal complete": "Retragerea a terminat",
+  "STAKING": "STAKING (MIZARE)",
+  "INFO": "INFO",
+  "LIQUIDITY": "LICHIDITATE",
+  "TRADE": "TRANZACȚIONEAZĂ",
+  "APY (Normal / Max)": "APY Randament Anual (Normal / Max)",
+  "Annual Percentage Yield. Max is with 3 year lock.": "Randamentul Anual. Maximul este redat blocând fondurile pentru 3 ani.",
+  "Check on VFAT": "Verifică pe VFAT",
+  "DEPOSIT": "DEPOZITEAZĂ",
+  "Staking": "Mizare / Staking",
+>>>>>>> 2d4ebb5503dc5e902048d178596c023ec6779c28
   "UNLOCKED": "DEBLOCAȚI",
   "LOCKED": "BLOCAȚI",
   "Insufficient Balance": "Sold Insuficient",
