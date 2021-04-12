@@ -1,5 +1,6 @@
 {
   "Exchanges": "Биржи",
-  "Informational": "Информация",
-  "External Farms / DeFi": " Внешний Майнинг / DeFi"
+  "External Farms": "External Farms",
+  " External Lending / DeFi": " External Lending / DeFi",
+  "Informational": "Информация"
 }

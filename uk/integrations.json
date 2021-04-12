@@ -1,5 +1,6 @@
 {
   "Exchanges": "Обміни",
-  "Informational": "Для інформації",
-  "External Farms / DeFi": "Зовнішні ферми / DeFi"
+  "External Farms": "External Farms",
+  " External Lending / DeFi": " External Lending / DeFi",
+  "Informational": "Для інформації"
 }

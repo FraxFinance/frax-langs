@@ -3,7 +3,7 @@
   "Processing oracle update...": "A processar a atualização do oracle...",
   "Oracle successfully updated...": "Oracle atualizado com sucesso...",
   "Oracle update successful": "Atualização de Oracle bem sucedida ",
-  "Transaction failed": "Transação mal sucedida",
+  "Transaction failed": "Transação falhada",
   "The FXS oracle is stale. All actions are frozen until it is updated.": "O FXS oracle está ultrapassado. Todas as ações estão congeladas até ser atualizado.",
   "Refresh Oracle": "Atualizar Oracle"
 }

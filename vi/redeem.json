@@ -1,5 +1,5 @@
 {
-  "blocks remaining": "khối còn lại",
+  "blocks remaining": "các khối còn lại",
   "block remaining": "khối còn lại",
   "Waiting for your wallet approval": "Đang đợi phê duyệt từ ví của bạn",
   "Processing transaction": "Đang xử lý giao dịch",
@@ -7,7 +7,7 @@
   "Redemption successful": "Đổi thành công",
   "Transaction failed": "Giao dịch thất bại",
   "Processing FRAX approval": "Đang phê duyệt FRAX",
-  "1st transaction successful. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "1st transaction successful. Waiting for your 2nd wallet approval",
   "FRAX allowance approved": "Đã cho phép phê duyệt FRAX",
   "Processing redemption": "Đang xử lý việc quy đổi",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Đã bắt đầu quy đổi. Vui lòng đợi {{val1}} khối {{val2}}",
@@ -19,11 +19,11 @@
   "Insufficient Balance": "Không đủ Số dư",
   "Not enough free collateral in the pool!": "Không đủ thế chấp miễn phí trong pool!",
   "You must wait for at least {{val1}} block {{val2}} to be able to complete your redemption": "Bạn phải đợi ít nhất {{val1}} khối {{val2}} để hoàn tất quá trình quy đổi",
-  "Redeemable FXS": "Quy đổi FXS",
+  "Redeemable FXS": "FXS Có thể quy đổi",
   "Redeemable Collateral": "Thế chấp Có thể quy đổi",
   "Redeem Initiated Block": "Quy đổi Khối Đã khởi tạo",
   "Redeem Claimable Block": "Quy đổi Khối Có thể nhận được",
   "Current Block": "Khối Hiện hành",
   "COLLECT": "THU THẬP",
-  "WAIT TO COLLECT": "ĐANG ĐỢI THU THẬP"
+  "WAIT TO COLLECT": "ĐỢI ĐỂ THU THẬP"
 }

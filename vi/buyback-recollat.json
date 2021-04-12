@@ -1,8 +1,8 @@
 {
   "Waiting for your wallet approval": "Đang đợi phê duyệt ví của bạn",
-  "Processing FXS approval": "Đang xử lý FXS",
-  "1st transaction successful. Waiting for your 2nd wallet approval": "Giao dịch đầu tiên thành công. Đang chờ phê duyệt giao dịch thứ 2 của bạn",
-  "FXS allowance approved": "Đã duyệt trợ cấp FXS",
+  "Processing FXS approval": "Đang xử lý phê duyệt FXS",
+  "1st transaction successful. Waiting for your 2nd wallet approval": "1st transaction successful. Waiting for your 2nd wallet approval",
+  "FXS allowance approved": "Đã duyệt cấp FXS",
   "Transaction failed": "Giao dịch thất bại",
   "Processing buyback transaction": "Đang xử lý giao dịch mua lại",
   "Buyback successful": "Mua lại thành công",
@@ -22,7 +22,7 @@
   "The protocol is properly collateralized.": "Giao thức được thế chấp đúng cách.",
   "RECOLLATERALIZE": "TÁI THẾ CHẤP",
   "BONUS RATE": "TỶ LỆ THƯỞNG",
-  "Collateral Amount": "Số tiền thế chấp",
+  "Collateral Amount": "Số tiền Thế chấp",
   "Collateral Balance": "Số dư Thế chấp",
   "Recollateralization Available": "Tái thế chấp Khả dụng"
 }

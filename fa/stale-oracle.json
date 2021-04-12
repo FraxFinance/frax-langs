@@ -1,9 +1,9 @@
 {
-  "Waiting for your wallet approval...": "منتظر تایید کیف پول شما ...",
-  "Processing oracle update...": "در حال پردازش بروزرسانی اوراکل...",
-  "Oracle successfully updated...": "اوراکل با موفقیت بروزرسانی شد",
-  "Oracle update successful": "بروزرسانی اوراکل موفق بود",
+  "Waiting for your wallet approval...": "منتظر تأیید کیف پول شما...",
+  "Processing oracle update...": "در حال پردازش به روزرسانی اوراکل...",
+  "Oracle successfully updated...": "اوراکل با موفقیت به روزرسانی شد...",
+  "Oracle update successful": "به روزرسانی اوراکل موفق بود",
   "Transaction failed": "تراکنش ناموفق",
-  "The FXS oracle is stale. All actions are frozen until it is updated.": "اوراکل FXS نامعتبر است. همه اقدامات تا زمان بروز رسانی آن، تعلیق می شود.  ",
+  "The FXS oracle is stale. All actions are frozen until it is updated.": "اوراکل FXS نامعتبر است. همه اقدامات تا زمان به روزرسانی آن، تعلیق می شود.  ",
   "Refresh Oracle": "تازه سازی اوراکل "
 }

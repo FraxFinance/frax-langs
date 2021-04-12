@@ -1,5 +1,6 @@
 {
-  "Exchanges": "Sàn giao dịch",
-  "Informational": "Thông tin",
-  "External Farms / DeFi": "Farms / DeFi Bên ngoài"
+  "Exchanges": "Các sàn giao dịch",
+  "External Farms": "External Farms",
+  " External Lending / DeFi": " External Lending / DeFi",
+  "Informational": "Thông tin"
 }

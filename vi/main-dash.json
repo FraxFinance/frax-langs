@@ -2,9 +2,9 @@
   "Price": "Giá",
   "Supply": "Nguồn cung",
   "Market Cap": "Vốn hóa Thị trường",
-  "Circulating Supply": "Nguồn cung Tuần hoàn",
-  "Circ. Market Cap": "Vốn hóa Tuần hoàn",
-  "FXS Burned": "Số FXS đã hủy",
+  "Circulating Supply": "Nguồn cung Lưu hành",
+  "Circ. Market Cap": "Vốn hóa Lưu hành",
+  "FXS Burned": "Số FXS đã Burned",
   "Ratio": "Tỉ lệ",
   "Total Value (USD)": "Tổng Giá trị (USD)",
   "All Time": "Toàn bộ Thời gian",
@@ -32,8 +32,8 @@
   "MARKET CAP": "VỐN HÓA THỊ TRƯỜNG",
   "COLLATERAL RATIO": "TỈ LỆ THẾ CHẤP",
   "GROWTH RATIO": "TỈ LỆ TĂNG TRƯỞNG",
-  "CIRC. SUPPLY": "NGUỒN CUNG TUẦN HOÀN",
-  "Circulating Supply. Estimated from CoinGecko": "Nguồn cung tuần hoàn. Ước tính từ CoinGecko",
-  "CIRC. MARKET CAP": "VỐN HÓA TUẦN HOÀN",
-  "Circulating Market Cap. Estimated from CoinGecko": "Vốn hóa tuần hoàn. Ước tính từ CoinGecko"
+  "CIRC. SUPPLY": "NGUỒN CUNG LƯU HÀNH",
+  "Circulating Supply. Estimated from CoinGecko": "Nguồn cung đang Lưu hành. Ước tính từ CoinGecko",
+  "CIRC. MARKET CAP": "VỐN HÓA LƯU HÀNH",
+  "Circulating Market Cap. Estimated from CoinGecko": "Vốn hóa đang Lưu hành. Ước tính từ CoinGecko"
 }

@@ -2,8 +2,8 @@
   "Price": "Preço",
   "Supply": "Oferta",
   "Market Cap": "Capitalização Bolsista",
-  "Circulating Supply": "Oferta em Circulação",
-  "Circ. Market Cap": "Capitalização Bolsista em Circ.",
+  "Circulating Supply": "Oferta Circulante",
+  "Circ. Market Cap": "Capitalização Bolsista Circ.",
   "FXS Burned": "FXS Burned",
   "Ratio": "Rácio",
   "Total Value (USD)": "Valor Total (USD)",
@@ -22,7 +22,7 @@
   "% Algorithmic": "% Algoritmica",
   "Algorithmic": "Algorítmico",
   "Free": "Grátis",
-  "Collateralized": "Colaterizado",
+  "Collateralized": "Com Garantia",
   "TOTAL VALUE": "VALOR TOTAL",
   "TOTAL INVESTED": "TOTAL INVESTIDO",
   "ALGORITHMIC RATIO": "RÁCIO ALGORÍTMICO",
@@ -32,8 +32,8 @@
   "MARKET CAP": "CAPITALIZAÇÃO BOLSISTA",
   "COLLATERAL RATIO": "RÁCIO DE GARANTIA",
   "GROWTH RATIO": "RÁCIO DE CRESCIMENTO",
-  "CIRC. SUPPLY": "OFERTA EM CIRC.",
-  "Circulating Supply. Estimated from CoinGecko": "Oferta em Circulação. Estimativa de CoinGecko",
-  "CIRC. MARKET CAP": "CAPITALIZAÇÃO BOLSISTA EM CIRC.",
-  "Circulating Market Cap. Estimated from CoinGecko": "Capitalização Bolsista em Circulação. Estimativa de CoinGecko"
+  "CIRC. SUPPLY": "OFERTA CIRC.",
+  "Circulating Supply. Estimated from CoinGecko": "Oferta circulante. Estimativa da CoinGecko",
+  "CIRC. MARKET CAP": "CAPITALIZAÇÃO BOLSISTA CIRC.",
+  "Circulating Market Cap. Estimated from CoinGecko": "Capitalização Bolsista Circulante. Estimativa de CoinGecko"
 }

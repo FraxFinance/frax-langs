@@ -4,14 +4,14 @@
   "REDEEM": "نقد کردن",
   "ISSUE PRICE": "قیمت صدور",
   "ISSUABLE FXB": "قابل صدور FXB",
-  "ISSUE FEE": "هزینه صدور",
+  "ISSUE FEE": "کارمزد صدور",
   "EPOCH END": "اتمام دوره",
   "FLOOR PRICE": "قیمت کف",
   "AMM PRICE": "AMM قیمت",
-  "BUYING FEE": "هزینه خرید",
-  "SELLING FEE": "هزینه فروش",
+  "BUYING FEE": "کارمزد خرید",
+  "SELLING FEE": "کارمزد فروش",
   "REDEMPTION PRICE": "نرخ نقد کردن",
-  "REDEMPTION FEE": "هزینه نقد کردن",
+  "REDEMPTION FEE": "کارمزد نقد کردن",
   "REDEMPTION END": "اتمام نقد کردن",
   "BONDS": "سهام",
   "FXB ADDRESS": "FXB آدرس",
@@ -20,5 +20,5 @@
   "Balance": "موجودی",
   "Insufficient Balance": "موجودی ناکافی",
   "To": "به",
-  "Effective FXB Price": "موثر FXB قیمت"
+  "Effective FXB Price": "مؤثر FXB قیمت"
 }

@@ -1,5 +1,6 @@
 {
-  "Exchanges": "Exchanges",
-  "Informational": "Informational",
-  "External Farms / DeFi": "External Farms / DeFi"
+  "Exchanges": "Exchange-uri",
+  "External Farms": "External Farms",
+  " External Lending / DeFi": " External Lending / DeFi",
+  "Informational": "Caracter Informativ"
 }
