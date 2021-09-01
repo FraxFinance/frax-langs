@@ -2,7 +2,11 @@
   "Investor AMO Total": "Investor AMO Total",
   "Curve AMO Total": "Curve AMO Total",
   "StakeDAO AMO Total": "StakeDAO AMO Total",
-  "Unspent Profit": "Unspent Profit",
+  "OHM AMO Total": "OHM AMO Total",
+  "Convex AMO Total": "Convex AMO Total",
+  "Rari AMO Total": "Rari AMO Total",
+  "Cream AMO Total": "Cream AMO Total",
+  "Accumulated Profit": "Accumulated Profit",
   "Investor": "Investor",
   "TOTAL INVESTED": "TOTAL INVESTED",
   "RESERVE RATIO": "RESERVE RATIO",
@@ -13,7 +17,6 @@
   "AMOUNT MINTED": "AMOUNT MINTED",
   "AMOUNT OWNED": "AMOUNT OWNED",
   "PROFIT": "PROFIT",
-  "APY": "APY",
   "Graphs": "Graphs",
-  "UNSPENT PROFIT": "UNSPENT PROFIT"
+  "ACCUMULATED PROFIT": "ACCUMULATED PROFIT"
 }
