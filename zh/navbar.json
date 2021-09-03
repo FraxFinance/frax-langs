@@ -1,10 +1,10 @@
 {
   "Not Connected": "未连接",
-  "Add tokens to Metamask": "向Metamask添加通证",
+  "Add tokens to Metamask": "向Metamask添加代币",
   "MAX SLIPPAGE": "最大交易滑点",
-  "The slippage tolerance is needed in case there are other Frax transactions in the same block.": "在同一区块有其他Frax交易的情况下，需要有滑点容许范围。",
+  "The slippage tolerance is needed in case there are other Frax transactions in the same block.": "在同一区块有其他Frax交易的情况下，则需要有一定的滑点范围。",
   "ALLOWANCE": "授权额度",
-  "In order to move tokens from your account, the smart contract needs your permission.": "为了将通证从您的账户中移出，智能合约需要您的许可。",
+  "In order to move tokens from your account, the smart contract needs your permission.": "为了将代币从您的账户中移出，智能合约需要您的许可。",
   "Dashboard": "仪表板",
   "Mint": "铸造",
   "Redeem": "赎回",
@@ -13,14 +13,14 @@
   "Gauge": "Gauge",
   "Staking": "质押",
   "Governance": "治理",
-  "Governance Discussion": "Governance Discussion",
-  "Integrations": "一体化",
+  "Governance Discussion": "治理讨论",
+  "Integrations": "集成",
   "Docs": "文件",
-  "Art & Graphics": "艺术与图形",
+  "Art & Graphics": "艺术与图片",
   "Terms": "条款",
   "Privacy": "隐私",
   "Coverage Available": "可用的新闻报道",
   "Audited by": "审计者：",
-  "Min": "Min",
-  "Max": "Max"
+  "Min": "最小",
+  "Max": "最大"
 }
