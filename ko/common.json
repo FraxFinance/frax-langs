@@ -1,6 +1,6 @@
 {
-  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
+  "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX는 쿠키를 사용하여 우수한 사용자 환경을 제공합니다. FRAX는 개인 정보를 절대 판매하지 않습니다.",
+  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "해당 소프트웨어는 이전에 회계감사를 받았지만 알파 릴리스입니다. 해킹, 취약성 및 경제적 공격으로 인해 모든 자금을 잃을 수 있습니다. 잃을 여유가 없는 자금을 Frax 프로토콜 내에서 사용하지 마십시오. 손실에 대해서는 보상하지 않습니다. 이더리움의 관련 스마트 계약 및 frax.finance의 소프트웨어와의 모든 상호 작용은 귀하의 책임입니다.",
   "Please select a wallet": "지갑을 선택하십시오",
   "Loading chart data...": "차트 데이터 로딩 중…",
   "SOON": "곧",
@@ -11,6 +11,7 @@
   "Insufficient Balance": "모자란 잔액",
   "Pool": "풀",
   "CONNECT WALLET": "지갑 연결",
+  "COLLATERAL": "COLLATERAL",
   "AMOUNT": "금액",
   "Available": "이용 가능"
 }
