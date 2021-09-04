@@ -1,6 +1,6 @@
 {
-  "Waiting for your wallet approval": "正在等待您的钱包获得批准",
-  "Processing FXS approval": "正在处理FXS的批准",
+  "Waiting for your wallet approval": "正在等待您的钱包批准",
+  "Processing FXS approval": "正在处理FXS授权批准",
   "1st transaction successful. Waiting for your 2nd wallet approval": "第一次交易已成功。正在等待您的第二次钱包批准",
   "FXS allowance approved": "FXS授权额度已批准",
   "Transaction failed": "交易失败",
@@ -19,7 +19,7 @@
   "EXCHANGE RATES": "汇率",
   "SWAP FEE": "交换费用",
   "YOU RECEIVE": "您收到",
-  "Recollaterization unavailable.": "Recollaterization unavailable.",
+  "Recollaterization unavailable.": "再抵押不可用.",
   "The protocol is properly collateralized.": "该协议已妥善抵押。",
   "RECOLLATERALIZE": "再抵押",
   "BONUS RATE": "红利率",
