@@ -6,11 +6,12 @@
   "SOON": "即將啟用",
   "Please wait...": "請稍候...",
   "Help": "說明",
-  "POOL": "資金池",
+  "COLLATERAL": "COLLATERAL",
   "Amount": "數量",
   "Insufficient Balance": "餘額不足",
   "Pool": "資金池",
   "CONNECT WALLET": "連接錢包",
+  "POOL": "資金池",
   "AMOUNT": "數量",
   "Available": "可用"
 }
