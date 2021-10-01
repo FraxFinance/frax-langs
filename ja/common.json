@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAXはCookieを使用し、優れたユーザーエクスペリエンスを提供します。 FRAXが個人情報を売却することはありません。",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "このソフトウェアは監査を受けていますが、アルファ版でのリリースとなっています。 ハッキング、脆弱性、経済的攻撃により全資金を失う可能性があります。 損失の余裕がないFraxプロトコル内の資金は絶対に使用しないでください。 損失は補償されません。 イーサリアム関連のスマートコントラクトおよびfrax.financeのソフトウェアとのやり取りは、全てご自身の責任で行ってください。",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "ウォレットを選択してください",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "チャートデータを読み込み中...",
   "SOON": "まもなく",
   "Please wait...": "お待ちください...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "残高不足",
   "Pool": "プール",
   "CONNECT WALLET": "ウォレット接続",
-  "POOL": "プール",
   "AMOUNT": "金額",
   "Available": "利用可能"
 }

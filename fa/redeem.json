@@ -12,6 +12,7 @@
   "Processing redemption": "در حال پردازش نقد کردن",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "نقد کردن شروع شد. در انتظار {{val1}} بلوک {{val2}}",
   "Redemption initiated": "نقد کردن شروع شد",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "نقد کردن",
   "COLLATERAL RATIO": "نسبت وثیقه",
   "REDEMPTION FEE": "کارمزد نقد کردن",

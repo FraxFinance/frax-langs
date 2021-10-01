@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX 使用 cookies 來提供更好的使用者體驗。FRAX 絕不會出售任何個人資料。",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "本軟體先前已經過審計，但仍為 alpha 版本。您可能會因為駭客攻擊、漏洞、經濟攻擊而損失您所有資產。永遠不要在 Frax 協議內使用您無法承擔損失的資金。您不會因為任何損失獲得賠償。與以太坊相關智慧合約和 frax.finance 軟體上的所有互動，將由您自行承擔風險。",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "請選擇一個錢包",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "正在載入圖表資料...",
   "SOON": "即將啟用",
   "Please wait...": "請稍候...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "餘額不足",
   "Pool": "資金池",
   "CONNECT WALLET": "連接錢包",
-  "POOL": "資金池",
   "AMOUNT": "數量",
   "Available": "可用"
 }

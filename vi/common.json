@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX sử dụng cookie để cung cấp cho bạn trải nghiệm người dùng tuyệt vời. FRAX sẽ không bao giờ bán bất kỳ thông tin cá nhân nào.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Phần mềm này đã được kiểm thử nhưng đây vẫn là một bản phát hành alpha. Bạn có thể mất tất cả tiền của mình do bị hack, lỗ hổng bảo mật và các cuộc tấn công kinh tế. Không bao giờ sử dụng tiền mà bạn không thể để mất trong giao thức Frax. Bạn sẽ không được bồi thường cho bất kỳ tổn thất nào. Tất cả các tương tác với các hợp đồng thông minh được liên kết trên Ethereum và phần mềm trên frax.finance đều do bạn tự chịu rủi ro.",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "Vui lòng chọn ví",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "Đang tải dữ liệu biểu đồ...",
   "SOON": "SẮP CÓ",
   "Please wait...": "Vui lòng đợi...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "Không đủ Số dư",
   "Pool": "Pool",
   "CONNECT WALLET": "KẾT NỐI VÍ",
-  "POOL": "POOL",
   "AMOUNT": "SỐ TIỀN",
   "Available": "Khả dụng"
 }

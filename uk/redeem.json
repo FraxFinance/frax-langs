@@ -12,6 +12,7 @@
   "Processing redemption": "Обробляємо погашення",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Погашення ініційовано. Чекаємо на {{val1}} блок{{val2}}",
   "Redemption initiated": "Погашення ініційовано",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "ПОГАСИТ",
   "COLLATERAL RATIO": "КОЕФІЦІЄНТ ПОКРИТТЯ ЗАБЕЗПЕЧЕННЯ",
   "REDEMPTION FEE": "КОМІСІЯ ЗА ПОГАШЕННЯ",

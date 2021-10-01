@@ -12,6 +12,7 @@
   "Processing redemption": "Processing redemption",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Redemption initiated. Waiting for {{val1}} block{{val2}}",
   "Redemption initiated": "Redemption initiated",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "REDEEM",
   "COLLATERAL RATIO": "COLLATERAL RATIO",
   "REDEMPTION FEE": "REDEMPTION FEE",

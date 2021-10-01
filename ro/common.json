@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX folosește cookie-uri pentru a oferi vă oferi o experiență plăcută. FRAX nu va vinde niciodată informații cu caracter personal.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Software-ul actual a fost auditat însa este in stadiul 'alpha'. Puteți pierde toți banii datorită unor atacuri cibernetice, altor vulnerabilități sau a atacurilor de tip economic. Nu folosiți fonduri în cadrul protocolului Frax pe care nu vă permiteți să le pierdeți. Nu veți primi compensații pentru pierderi. Vă asumați riscul pentru orice interacțiune cu software-ul folosit pe frax.finance sau cu smart contracts (din eng. contracte inteligente) găzduite pe Ethereum.",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "Vă rog alegeți un portofel",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "Se încarcă datele pentru grafice...",
   "SOON": "ÎN CURÂND",
   "Please wait...": "Vă rog așteptați...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "Sold insuficient",
   "Pool": "Pool (fond comun)",
   "CONNECT WALLET": "CONECTARE PORTOFEL",
-  "POOL": "POOL (FOND COMUN)",
   "AMOUNT": "CANTITATE",
   "Available": "Disponibil"
 }

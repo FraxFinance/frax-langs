@@ -12,6 +12,7 @@
   "Processing redemption": "Paraya çevirme işleniyor",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Paraya çevirme başlatıldı. {{val1}} blok{{val2}} bekleniyor",
   "Redemption initiated": "Paraya çevirme başlatıldı",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "PARAYA ÇEVİR",
   "COLLATERAL RATIO": "TEMİNAT ORANI",
   "REDEMPTION FEE": "PARAYA ÇEVİRME HARCI",

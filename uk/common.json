@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX використовує файли cookies для найкращого досвіду користування. FRAX ніколи не продає особисту інформацію.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "Будь-ласка, виберіть гаманець",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "Завантажуємо дані блок-схеми...",
   "SOON": "SOON",
   "Please wait...": "Будь-ласка, зачекайте...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "Недостатній баланс",
   "Pool": "ПУЛ",
   "CONNECT WALLET": "З'ЄДНАТИСЯ З ГАМАНЦЕМ",
-  "POOL": "ПУЛ",
   "AMOUNT": "СУМА",
   "Available": "Доступно"
 }

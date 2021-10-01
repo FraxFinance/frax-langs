@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "Se așteaptă aprobarea de la portofelul tău",
   "Processing {{val}} allowance transaction": "Tranzacția pentru alocația a {{val}} în curs de procesare",
   "1st transaction successful. Waiting for your 2nd wallet approval": "Prima tranzacție a reușit. Se așteaptă a II-a aprobare de la portofelul tău",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "Alocația FXS a fost aprobată",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "A II-a tranzacție a reușit. Te aștept cu a III-a aprobare",
   "Processing mint transaction": "Tranzacția de bătut monede în curs de procesare",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== Bazinul de fonduri comune s-a inchis deoarece s-a atins plafonul ==-- 🌊",
   "MINT FRAX": "BATE MONEDA FRAX",
   "FRAX PRICE": "PREȚ FRAX",
-  "From CoinGecko": "De la CoinGecko",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "RAŢIA COLATERALULUI",
   "POOL BALANCE / CEILING": "SOLD FOND COMUN / PLAFON",
   "AVAILABLE TO MINT": "DISPONIBILI PENTRU BĂTUT MONEDĂ",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "CURS DE SCHIMB",
   "MINTING FEE": "COMISION BĂTUT MONEDĂ",
   "YOU RECEIVE": "TU PRIMEȘTI",
-  "MINT": "BATE MONEDĂ",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "Link",
-  "DESIRED FRAX": "FRAX DORIT",
-  "Insufficient ETH Balance": "Sold ETH Insuficient",
-  "ETH Available": "ETH Disponibili"
+  "MINT": "BATE MONEDĂ"
 }

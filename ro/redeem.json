@@ -12,6 +12,7 @@
   "Processing redemption": "Revendicare în curs de procesare",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Revendicarea a fost inițiată. Se așteaptă pentru {{val1}} blocul {{val2}}",
   "Redemption initiated": "Revendicare inițiată",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "REVENDIC",
   "COLLATERAL RATIO": "RAŢIA COLATERALULUI",
   "REDEMPTION FEE": "COMISION REVENDICARE",

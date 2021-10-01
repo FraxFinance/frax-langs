@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "ממתין לאישור הארנק",
   "Processing {{val}} allowance transaction": "Processing {{val}} מעבד טרנזקציית תשלום ",
   "1st transaction successful. Waiting for your 2nd wallet approval": "טרנזקציה ראשונה אושרה. ממתין לאישור שני מהארנק",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "הוצאה אושרה",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "טרנזקציה שניה אושרה. ממתין לאישור שלישי מהארנק",
   "Processing mint transaction": "מעבד טרנזקציית הטבעה",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== [pool_ceiling reached] :הפּוּל נסגר ==-- 🌊",
   "MINT FRAX": "הטבעה",
   "FRAX PRICE": "FRAX מחיר",
-  "From CoinGecko": "CoinGecko",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "יחס הישענות",
   "POOL BALANCE / CEILING": "יתרת פּוּל / תקרה",
   "AVAILABLE TO MINT": "יתרה פנויה להטבעה",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "שערים",
   "MINTING FEE": "עמלת הטבעה",
   "YOU RECEIVE": "אתה מקבל",
-  "MINT": "הטבעה",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "Link",
-  "DESIRED FRAX": "רצויה FRAX כמות",
-  "Insufficient ETH Balance": "יתרת את'ר לא מספיקה",
-  "ETH Available": "את'ר פנוי"
+  "MINT": "הטבעה"
 }
