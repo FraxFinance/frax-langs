@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "正在等待您的錢包許可",
   "Processing {{val}} allowance transaction": "正在處理 {{val}} 授權額度的交易",
   "1st transaction successful. Waiting for your 2nd wallet approval": "第一筆交易成功，正在等待您的第二次錢包許可",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "FXS 授權已許可",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "第二筆交易成功，正在等待您的第三次錢包許可",
   "Processing mint transaction": "正在處理鑄造交易",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== 資金池已關閉，原因為：[已經達到池子上限] ==-- 🌊",
   "MINT FRAX": "鑄造 FRAX",
   "FRAX PRICE": "FRAX 價格",
-  "From CoinGecko": "來自 CoinGecko",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "質押率",
   "POOL BALANCE / CEILING": "資金池餘額 / 最大值",
   "AVAILABLE TO MINT": "可用鑄造量",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "匯率",
   "MINTING FEE": "鑄造費",
   "YOU RECEIVE": "您會收到",
-  "MINT": "鑄造",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "如果您想要用一個輔助合約來用 ETH 透過 Uniswap 鑄造，選擇「ETH」。",
-  "Link": "連結",
-  "DESIRED FRAX": "期望得到的 FRAX",
-  "Insufficient ETH Balance": "ETH 餘額不足",
-  "ETH Available": "ETH 可用"
+  "MINT": "鑄造"
 }
