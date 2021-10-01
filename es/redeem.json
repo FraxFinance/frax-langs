@@ -12,6 +12,7 @@
   "Processing redemption": "Procesando redención",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Redención iniciada. Esperando el bloqueo de {{val1}} {{val2}}",
   "Redemption initiated": "Redención iniciada",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "REDIMIR",
   "COLLATERAL RATIO": "RATIO COLATERAL",
   "REDEMPTION FEE": "TARIFA DE REDIMIR",

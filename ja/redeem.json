@@ -12,6 +12,7 @@
   "Processing redemption": "償還を処理中",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "償還が開始されました。{{val1}} ブロック{{val2}}を待機中",
   "Redemption initiated": "償還が開始されました",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "償還",
   "COLLATERAL RATIO": "保証金率",
   "REDEMPTION FEE": "償還手数料",

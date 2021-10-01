@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "في انتظار الموافقة على محفظتك",
   "Processing {{val}} allowance transaction": "{{val}}جاري معالجة عملية بدل ",
   "1st transaction successful. Waiting for your 2nd wallet approval": "أول عملية ناجحة، في انتظار الموافقة الثانية على محفظتك",
@@ -11,10 +12,11 @@
   "FXS allowance approved": " FXSتمت الموافقة على بدل ",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "عملية ثانية ناجحة، في انتظارالموافقة الثالثة على محفظتك",
   "Processing mint transaction": "جاري معالجة عمليات صناعة العملة",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": " 🌊 - ==[الوصول إلى الحد الأقصى]  المجموعة مغلقة بسبب == - 🌊",
   "MINT FRAX": "FRAXصناعة عملة ",
   "FRAX PRICE": "FRAXسعر ",
-  "From CoinGecko": "CoinGeckoمن ",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "نسبة الضمان",
   "POOL BALANCE / CEILING": "رصيد المجموعة / الحد الأقصى",
   "AVAILABLE TO MINT": "متوفر لصناعة العملة",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "أسعار العملات",
   "MINTING FEE": "رسوم صناعة العملة",
   "YOU RECEIVE": "استلام",
-  "MINT": "صناعة العملة",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "الرابط",
-  "DESIRED FRAX": "المرغوب FRAX",
-  "Insufficient ETH Balance": " غير كافٍETH رصيد",
-  "ETH Available": "متاح ETH"
+  "MINT": "صناعة العملة"
 }

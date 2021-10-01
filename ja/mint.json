@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "ウォレットの承認待機中",
   "Processing {{val}} allowance transaction": "{{val}}手当トランザクションを処理中",
   "1st transaction successful. Waiting for your 2nd wallet approval": "初回トランザクションが成功しました。2度目のウォレット承認待機中",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "FXS手当が承認されました",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "2度目のトランザクションが成功しました。3度目のウォレット承認待機中",
   "Processing mint transaction": "MINTのトランザクションを処理中",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== [pool_ceiling reached]のため、プールがクローズしています ==-- 🌊",
   "MINT FRAX": "MINT FRAX",
   "FRAX PRICE": "FRAX価格",
-  "From CoinGecko": "CoinGeckoから",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "保証金率",
   "POOL BALANCE / CEILING": "プール残高 / 上限",
   "AVAILABLE TO MINT": "MINTで利用可能",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "為替レート",
   "MINTING FEE": "MINT手数料",
   "YOU RECEIVE": "受領",
-  "MINT": "MINT",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "リンク",
-  "DESIRED FRAX": "ご希望のFRAX",
-  "Insufficient ETH Balance": "ETH残高不足",
-  "ETH Available": "ETH利用可能"
+  "MINT": "MINT"
 }

@@ -1,4 +1,7 @@
 {
+  "Please choose a non-{{val1}} chain": "Please choose a non-{{val1}} chain",
   "Wrong Chain": "Wrong Chain",
-  "Switch": "Switch"
+  "Select Chain": "Select Chain",
+  "Switch": "Switch",
+  "Clear localStorage": "Clear localStorage"
 }

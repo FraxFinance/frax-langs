@@ -12,6 +12,7 @@
   "Processing redemption": "正在处理赎回",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "赎回已启动。正在等待{{val1}}区块{{val2}}",
   "Redemption initiated": "赎回已启动",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "赎回",
   "COLLATERAL RATIO": "抵押比率",
   "REDEMPTION FEE": "赎回费用",

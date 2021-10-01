@@ -12,6 +12,7 @@
   "Processing redemption": "Riscatto in elaborazione",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Riscatto in corso. In attesa di {{val1}} blocco{{val2}}",
   "Redemption initiated": "Riscatto in corso",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "RISCATTA",
   "COLLATERAL RATIO": "COLLATERAL RATIO",
   "REDEMPTION FEE": "FEE DI RISCATTO",

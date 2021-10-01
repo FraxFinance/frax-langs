@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "Ang FRAX ay gumagamit ng cookies para magbigay sa iyo ng napakagandang karanasan bilang user. Hindi kailanman ibebenta ng FRAX ang alinmang personal na impormasyon.",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "Ang software na ito ay dati nang na-audit ngunit isang alpha release. Maaaring mawala ang lahat ng pondo mo dahil sa pag-hack, mga kahinaan, at pag-atake sa ekonomiya. Huwag kailanman gumamit ng pondo sa loob ng protokol ng Frax na hindi mo kayang mawala. Hindi ka babayaran sa anumang pagkalugi. Lahat ng interaksyon na nauugnay sa matalinong kontrata sa Ethereum at software sa frax.finace ay sarili mong pananagutan.",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "Mangyaring pumili ng wallet",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "Nag-lo-load ang data ng chart...",
   "SOON": "MALAPIT NA",
   "Please wait...": "Mangyaring maghintay...",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "Kulang ang Balanse",
   "Pool": "Pool",
   "CONNECT WALLET": "IKONEKTA ANG WALLET",
-  "POOL": "POOL",
   "AMOUNT": "HALAGA",
   "Available": "Available"
 }
