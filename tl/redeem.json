@@ -12,6 +12,7 @@
   "Processing redemption": "Pinoproseso ang pag-redeem",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Sinimulan ang pag-redeem. Hinihintay ang {{val1}} block{{val2}}",
   "Redemption initiated": "Sinimulan ang pag-redeem",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "I-REDEEM",
   "COLLATERAL RATIO": "KATUMBASAN NG COLLATERAL",
   "REDEMPTION FEE": "SINGIL SA PAG-REDEEM",

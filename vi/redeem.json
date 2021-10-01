@@ -12,6 +12,7 @@
   "Processing redemption": "Đang xử lý việc quy đổi",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Đã bắt đầu quy đổi. Vui lòng đợi {{val1}} khối {{val2}}",
   "Redemption initiated": "Đã bắt đầu quy đổi",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "ĐỔI",
   "COLLATERAL RATIO": "TỶ LỆ THẾ CHẤP",
   "REDEMPTION FEE": "PHÍ ĐỔI",

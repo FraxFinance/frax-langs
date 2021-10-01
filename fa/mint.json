@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "در انتظار تأیید کیف پول",
   "Processing {{val}} allowance transaction": "{{val}} در حال پردازش مجوز تراکنش",
   "1st transaction successful. Waiting for your 2nd wallet approval": "اولین تراکنش موفق بود. منتظر دومین تأیید کیف پول شما",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "مجوز FXS تأیید شد",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "دومین تراکنش موفق بود. منتظر سومین تأیید کیف پول شما",
   "Processing mint transaction": "در حال پردازش تراکنش مینت",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== استخر به این دلیل بسته شده: [pool_ceiling reached] ==-- 🌊",
   "MINT FRAX": "مینت FRAX",
   "FRAX PRICE": "FRAX قیمت",
-  "From CoinGecko": "از CoinGecko",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "نسبت وثیقه",
   "POOL BALANCE / CEILING": "موجودی / سقف استخر",
   "AVAILABLE TO MINT": "قابل دسترس برای مینت",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "نرخ مبادله",
   "MINTING FEE": "کارمزد مینت کردن",
   "YOU RECEIVE": "شما دریافت می کنید",
-  "MINT": "مینت",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "لینک",
-  "DESIRED FRAX": "دلخواه FRAX",
-  "Insufficient ETH Balance": "موجودی ETH کافی نیست",
-  "ETH Available": "ETH در دسترس"
+  "MINT": "مینت"
 }

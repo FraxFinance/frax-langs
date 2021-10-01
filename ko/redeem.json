@@ -12,6 +12,7 @@
   "Processing redemption": "상환 처리 중",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "상환 시작. 대기 중 {{val1}} 블록{{val2}}",
   "Redemption initiated": "상환 시작",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "상환",
   "COLLATERAL RATIO": "담보 비율",
   "REDEMPTION FEE": "상환 수수료",

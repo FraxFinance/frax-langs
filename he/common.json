@@ -1,7 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "האתר עושה שימוש בקוקיות במטרה לשפר את חווית המשתמש. האתר לעולם לא ימכור מידע כלשהו של המשתמשים",
-  "This software has been previously audited but is an alpha release. You can lose all of your funds due to hacks, vulnerabilities, and economic attacks. Never use funds within the Frax protocol that you cannot afford to lose. You won’t be compensated for any losses. All interactions with the associated smart contracts on Ethereum and software on frax.finance are at your own risk.": "תוכנה זו עברה בדיקות מקיפות אך מדובר בגרסת אלפא. פריצות, חולשות אבטחה ומתקפות כלכליות עלולות להוביל לאובדן כל כספך. לעולם אל תעשה שימוש בפרוקטוקול עם כספים שאינך מסוגל לשאת באובדנם. אף אחד לא יפצה אותך על אובדנך. כל אינטראקציה עם התוכנות והחוזים החכמים של המערכת על גבי רשת האת'ריום הן באחריותך בלבד",
+  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
+  "I understand.": "I understand.",
   "Please select a wallet": "בחירת ארנק",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
   "Loading chart data...": "גרף בטעינה...",
   "SOON": "בקרוב",
   "Please wait...": "...אנא המתן",
@@ -11,7 +13,6 @@
   "Insufficient Balance": "יתרה לא מספיקה",
   "Pool": " פּוּל ",
   "CONNECT WALLET": "התחברות עם הארנק",
-  "POOL": "פּוּל",
   "AMOUNT": " כמות ",
   "Available": "זמין"
 }

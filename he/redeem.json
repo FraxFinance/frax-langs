@@ -12,6 +12,7 @@
   "Processing redemption": "מעבד בקשת משיכה",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "{{val2}} בלוק {{val1}}-בקשת משיכה אותחלה. ממתין ל",
   "Redemption initiated": "בקשת משיכה אותחלה",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "פדיון",
   "COLLATERAL RATIO": "יחס הישענות",
   "REDEMPTION FEE": "עמלת פדיון",

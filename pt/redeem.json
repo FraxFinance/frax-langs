@@ -12,6 +12,7 @@
   "Processing redemption": "A processar reembolso",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Reembolso iniciado. À espera de {{val1}} bloco{{val2}}",
   "Redemption initiated": "Reembolso iniciado",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "REEMBOLSAR",
   "COLLATERAL RATIO": "RÁCIO DE GARANTIA",
   "REDEMPTION FEE": "TAXA DE REEMBOLSO",

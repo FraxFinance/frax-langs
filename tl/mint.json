@@ -1,4 +1,5 @@
 {
+  "SWAP INSTEAD": "SWAP INSTEAD",
   "Waiting for your wallet approval": "Hinihintay ang pag-apruba para sa wallet mo",
   "Processing {{val}} allowance transaction": "Pinoproseso ang transaksyon ng {{val}} allowance",
   "1st transaction successful. Waiting for your 2nd wallet approval": "Matagumpay ang unang transaksyon. Hinihintay ang pag-apruba para sa 2nd wallet mo",
@@ -11,10 +12,11 @@
   "FXS allowance approved": "Naaprubahan ang FXS allowance",
   "2nd transaction successful. Waiting for your 3rd wallet approval": "Matagumpay ang ikalawang transaksyon. Hinihintay ang pag-apruba para sa 3rd wallet mo",
   "Processing mint transaction": "Pinoproseso ang transaksyon ng pag-mina",
+  "Frax price is too low to mint (needs to be more than ${{val}}).": "Frax price is too low to mint (needs to be more than ${{val}}).",
   "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊": "🌊 --== Pool's closed due to: [pool_ceiling reached] ==-- 🌊",
   "MINT FRAX": "FRAX NG PAGMIMINA",
   "FRAX PRICE": "PRESYO NG FRAX",
-  "From CoinGecko": "Mula sa CoinGecko",
+  "From Chainlink": "From Chainlink",
   "COLLATERAL RATIO": "KATUMABASAN NG COLLATERAL",
   "POOL BALANCE / CEILING": "BALANSE NG POOL / KAITAASAN",
   "AVAILABLE TO MINT": "AVAILABLE SA PAG-MINA",
@@ -29,10 +31,5 @@
   "EXCHANGE RATES": "HALAGA NG PALITAN",
   "MINTING FEE": "SINGIL SA PAGMIMINA",
   "YOU RECEIVE": "MATATANGGAP MO",
-  "MINT": "MINA",
-  "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.": "Choose ETH if you want a utility contract to mint FRAX with ETH via Uniswap.",
-  "Link": "I-link",
-  "DESIRED FRAX": "GUSTONG FRAX",
-  "Insufficient ETH Balance": "Kulang na ETH na Balanse",
-  "ETH Available": "Available na ETH"
+  "MINT": "MINA"
 }

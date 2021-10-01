@@ -12,6 +12,7 @@
   "Processing redemption": "جاري معالجة الاسترداد",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "{{val2}} بلوك{{val1}}  بدأ الاسترداد. في انتظار",
   "Redemption initiated": "جاري الاسترداد",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "استرداد",
   "COLLATERAL RATIO": "نسبة الضمانات",
   "REDEMPTION FEE": "رسوم الاسترداد",

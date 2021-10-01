@@ -12,6 +12,7 @@
   "Processing redemption": "Traitement de l’échange",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Échange initié. En attente de {{val1}} bloc{{val2}}",
   "Redemption initiated": "Échange initié",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "ÉCHANGER",
   "COLLATERAL RATIO": "RATIO COLLATÉRAL",
   "REDEMPTION FEE": "FRAIS D’ÉCHANGE",

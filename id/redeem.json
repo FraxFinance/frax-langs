@@ -12,6 +12,7 @@
   "Processing redemption": "Memproses penukaran",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Penukaran dimulai. Menunggu {{val1}} blok{{val2}}",
   "Redemption initiated": "Penukaran dimulai",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
   "REDEEM": "PENUKARAN",
   "COLLATERAL RATIO": "RASIO KOLATERAL",
   "REDEMPTION FEE": "BIAYA PENUKARAN",
