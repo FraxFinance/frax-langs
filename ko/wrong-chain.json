@@ -1,7 +1,7 @@
 {
-  "Please choose a non-{{val1}} chain": "Please choose a non-{{val1}} chain",
+  "Please choose a non-{{val1}} chain": "{{val1}}이 아닌 체인을 선택하세요.",
   "Wrong Chain": "잘못된 체인",
-  "Select Chain": "Select Chain",
+  "Select Chain": "체인 선택",
   "Switch": "스위치",
-  "Clear localStorage": "Clear localStorage"
+  "Clear localStorage": "로컬 스토리지 지우기"
 }
