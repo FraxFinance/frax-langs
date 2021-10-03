@@ -12,7 +12,7 @@
   "Processing redemption": "正在處理贖回",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "已發起贖回，正在等待 {{val1}} 區塊 {{val2}}",
   "Redemption initiated": "已發起贖回",
-  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax 價格太高無法贖回 (需要低於 ${{val}})。",
   "REDEEM": "贖回",
   "COLLATERAL RATIO": "質押率",
   "REDEMPTION FEE": "贖回費用",
