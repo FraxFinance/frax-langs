@@ -1,7 +1,7 @@
 {
-  "Please choose a non-{{val1}} chain": "Please choose a non-{{val1}} chain",
+  "Please choose a non-{{val1}} chain": "請選擇一條非 {{val1}} 的鏈",
   "Wrong Chain": "在錯誤的鏈上",
-  "Select Chain": "Select Chain",
+  "Select Chain": "選擇一條鏈",
   "Switch": "切換",
-  "Clear localStorage": "Clear localStorage"
+  "Clear localStorage": "清除 localStorage"
 }

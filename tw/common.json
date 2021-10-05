@@ -1,9 +1,9 @@
 {
   "FRAX uses cookies to provide you with a great user experience. FRAX will never sell any personal information.": "FRAX 使用 cookies 來提供更好的使用者體驗。FRAX 絕不會出售任何個人資料。",
-  "This app is not intended for use by citizens of the United States.": "This app is not intended for use by citizens of the United States.",
-  "I understand.": "I understand.",
+  "This app is not intended for use by citizens of the United States.": "美國公民不應使用這個應用程式。",
+  "I understand.": "我理解了。",
   "Please select a wallet": "請選擇一個錢包",
-  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "Please make sure your browser wallet extension(s) are up to date and support EIP-1559",
+  "Please make sure your browser wallet extension(s) are up to date and support EIP-1559": "請確定您的瀏覽器錢包附加元件已更新到最新，而且支援 EIP-1559",
   "Loading chart data...": "正在載入圖表資料...",
   "SOON": "即將啟用",
   "Please wait...": "請稍候...",
