@@ -1,0 +1,2 @@
+Combine all json files into one, with filenames as the keys
+jq -n 'reduce inputs as $s (.; .[input_filename] += $s)' *.json > combined.txt
