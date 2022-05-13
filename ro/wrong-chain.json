@@ -1,7 +1,7 @@
 {
-  "Please choose a non-{{val1}} chain": "Please choose a non-{{val1}} chain",
-  "Wrong Chain": "Wrong Chain",
-  "Select Chain": "Select Chain",
-  "Switch": "Switch",
-  "Clear localStorage": "Clear localStorage"
+  "Please choose a non-{{val1}} chain": "Te rog alege un blockchain non-{{val1}}",
+  "Wrong Chain": "Blockchain greșit",
+  "Select Chain": "Alege Blockchain",
+  "Switch": "Schimbă",
+  "Clear localStorage": "Limpezește Storage-ul local"
 }

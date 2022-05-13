@@ -12,8 +12,8 @@
   "Processing redemption": "Revendicare în curs de procesare",
   "Redemption initiated. Waiting for {{val1}} block{{val2}}": "Revendicarea a fost inițiată. Se așteaptă pentru {{val1}} blocul {{val2}}",
   "Redemption initiated": "Revendicare inițiată",
-  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Frax price is too high to redeem (needs to be less than ${{val}}).",
-  "REDEEM": "REVENDIC",
+  "Frax price is too high to redeem (needs to be less than ${{val}}).": "Prețul Frax-ului este prea mare pentru a putea revendica (trebuie să fie mai puțin decât ${{val}}).",
+  "REDEEM": "REVENDICĂ",
   "COLLATERAL RATIO": "RAŢIA COLATERALULUI",
   "REDEMPTION FEE": "COMISION REVENDICARE",
   "POOL BALANCE": "SOLD FOND COMUN",
@@ -24,7 +24,7 @@
   "Redeemable Collateral": "Colateral Revendicabil",
   "Redeem Initiated Block": "Revendică Blocul Inițiat",
   "Redeem Claimable Block": "Revendică Blocul Eligibil pt. Revendicare",
-  "Current Block": "Current Block",
+  "Current Block": "Blocul Curent",
   "COLLECT": "CULEGE",
   "WAIT TO COLLECT": "AȘTEAPTĂ PENTRU A CULEGE"
 }
